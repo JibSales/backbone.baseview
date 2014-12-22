@@ -1,9 +1,9 @@
 {
-  "name": "backbone.layout",
+  "name": "backbone.baseview",
   "version": "0.1.0",
   "author": "Sean R. Quinn <sean@jibsales.com>",
   "description": "A simple layout view for backbone",
-  "main": "backbone.layout.js",
+  "main": "backbone.baseview.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/jibsales/backbone.layout"
